@@ -1,0 +1,597 @@
+01-01 02:47:06.099   573  4787 I CTAG    : 38 35 32 3A 35 37 2E 30 34 3D 3B 38 37 44 48 4E 59 66 78 93 
+01-01 02:47:06.099   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:06.099   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:06.099   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:06.099   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:06.107   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:06.108   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:06.108   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:06.109   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:06.144   573  4787 I CTAG    : fp80_readImage: grey=1035216
+01-01 02:47:06.144   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:06.149   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:06.149   573  4787 I CTAG    : detect_param: start. idx=2
+01-01 02:47:06.149   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:06.157   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:06.222   573  4787 I CTAG    : 90 82 6D 56 52 4A 43 46 3D 3A 35 39 3D 36 3A 33 3F 38 2C 36 3B 32 3D 38 34 3A 30 2E 35 38
+01-01 02:47:06.222   573  4787 I CTAG    : 34 3A 3C 41 3A 33 3B 3A 37 39 47 3D 3D 3E 37 40 3F 39 35 37 3D 39 39 37 2C 3D 37 42 3C 3A
+01-01 02:47:06.222   573  4787 I CTAG    : 3A 32 35 34 31 37 32 2C 31 3D 2E 31 39 3E 44 52 50 61 76 90 
+01-01 02:47:06.222   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:06.222   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:06.222   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:06.222   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:06.231   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:06.232   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:06.232   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:06.233   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:06.268   573  4787 I CTAG    : fp80_readImage: grey=1037824
+01-01 02:47:06.268   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:06.273   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:06.273   573  4787 I CTAG    : detect_param: start. idx=3
+01-01 02:47:06.273   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:06.285   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:06.361   573  4787 I CTAG    : 91 7D 6A 5D 55 47 44 41 44 36 35 3A 42 33 3C 37 3E 38 33 32 39 3B 37 39 38 3C 32 3A 36 3B
+01-01 02:47:06.361   573  4787 I CTAG    : 39 3F 3A 38 36 3F 37 3D 39 3D 3F 3E 45 3F 35 3B 35 42 2D 41 3B 3E 40 33 2E 38 40 3C 3F 37
+01-01 02:47:06.361   573  4787 I CTAG    : 43 36 33 3E 2E 2D 2B 2A 35 39 3A 39 34 41 4B 4C 51 64 76 8C 
+01-01 02:47:06.361   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:06.361   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:06.361   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:06.361   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:06.371   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:06.372   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:06.372   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:06.372   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:06.408   573  4787 I CTAG    : fp80_readImage: grey=1040641
+01-01 02:47:06.408   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:06.413   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:06.413   573  4787 I CTAG    : fp80_setWakeUpTH: para_t=0x39 para_c=77 dta=15
+01-01 02:47:06.413   573  4787 I CTAG    : fp80_detectParam: para_t=0x48 para_c=77
+01-01 02:47:06.413   573  4787 I CTAG    : fp80_detectParam: end. ret=0 suc=1
+01-01 02:47:06.413   573  4787 I CTAG    : fp80_detectMode: start. volt=0x42 para_t=0x48 para_c=77
+01-01 02:47:06.424   573  4787 I CTAG    : fp80_detectMode: end.
+01-01 02:47:06.424   573  4787 I MTAG    : interrupt_event: end.
+01-01 02:47:07.281   573   573 V fingerprintd: authenticate(sid=0, gid=0)
+01-01 02:47:07.282   573   573 I MTAG    : ma_verify: start. oper_id=0x0 gid=0
+01-01 02:47:07.282   573   573 I CTAG    : fp_getWork: ret=1
+01-01 02:47:07.333   573   573 I MTAG    : ma_verify: #########===============================================
+01-01 02:47:07.333   573   573 I CTAG    : fp_setWork: start. what=2
+01-01 02:47:07.533   573   573 I CTAG    : fp_setWork: end. ret=0
+01-01 02:47:07.533   573  4787 I CTAG    : fp_getWork: ret=2
+01-01 02:47:07.533   573   573 I MTAG    : ma_verify: end. i=0 ret=0
+01-01 02:47:07.533   573  4787 I MTAG    : wakeup_event: start. what=2
+01-01 02:47:07.533   573  4787 I MTAG    : wakeup_event: what=2
+01-01 02:47:07.533   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:07.533   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:07.533   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:07.547   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:07.548   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:07.548   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:07.548   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:07.584   573  4787 I CTAG    : fp80_readImage: grey=1041464
+01-01 02:47:07.584   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:07.588   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:07.588   573  4787 I CTAG    : fp80_detectParam: start. snum=80 cnum=1
+01-01 02:47:07.588   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:07.588   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:07.588   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:07.598   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:07.600   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:07.600   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:07.600   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:07.635   573  4787 I CTAG    : fp80_readImage: grey=1040106
+01-01 02:47:07.636   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:07.640   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:07.640   573  4787 I CTAG    : detect_param: start. idx=0
+01-01 02:47:07.640   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:07.654   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:07.699   573  4787 I CTAG    : 90 7E 65 5A 55 45 44 3C 40 35 31 37 38 2B 35 31 39 31 32 35 37 32 3B 31 35 32 37 30 31 38
+01-01 02:47:07.699   573  4787 I CTAG    : 2D 3C 31 3E 39 38 3C 3C 30 3C 46 3A 37 3A 34 38 38 3E 34 3D 34 3A 3B 37 35 3A 37 39 38 3D
+01-01 02:47:07.699   573  4787 I CTAG    : 38 34 31 38 34 37 2E 31 35 3C 3C 36 37 43 46 4D 59 67 77 93 
+01-01 02:47:07.699   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:07.699   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:07.699   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:07.699   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:07.708   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:07.709   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:07.709   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:07.709   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:07.745   573  4787 I CTAG    : fp80_readImage: grey=1039152
+01-01 02:47:07.745   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:07.749   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:07.749   573  4787 I CTAG    : detect_param: start. idx=1
+01-01 02:47:07.749   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:07.759   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:07.814   573  4787 I CTAG    : 91 80 65 5C 56 47 44 3D 42 35 32 39 3A 2D 36 33 38 33 34 38 37 32 3C 32 36 35 39 32 33 38
+01-01 02:47:07.814   573  4787 I CTAG    : 2F 3D 31 3F 3A 38 3C 3C 33 3C 45 3A 38 3C 34 39 3A 3D 35 3D 36 3D 3D 37 35 3B 37 38 3A 3D
+01-01 02:47:07.814   573  4787 I CTAG    : 39 35 31 3A 35 36 31 30 34 3D 3D 37 37 43 47 4C 59 68 78 93 
+01-01 02:47:07.814   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:07.814   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:07.814   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:07.814   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:07.823   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:07.824   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:07.824   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:07.824   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:07.860   573  4787 I CTAG    : fp80_readImage: grey=1039038
+01-01 02:47:07.860   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:07.864   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:07.864   573  4787 I CTAG    : detect_param: start. idx=2
+01-01 02:47:07.864   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:07.874   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:07.939   573  4787 I CTAG    : 91 82 6E 56 52 4B 43 46 3E 3A 39 3A 3C 37 38 34 3E 38 2D 36 3C 33 3F 3A 35 3A 32 2F 34 37
+01-01 02:47:07.939   573  4787 I CTAG    : 36 3C 3C 41 3B 34 3A 3C 37 3A 47 3E 3E 3F 37 40 40 39 37 39 3E 3B 3A 37 30 3D 36 41 3B 3C
+01-01 02:47:07.939   573  4787 I CTAG    : 39 34 36 35 31 36 33 2B 34 3E 2F 2F 3A 3F 45 51 51 63 76 90 
+01-01 02:47:07.939   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:07.939   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:07.939   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:07.939   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:07.948   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:07.949   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:07.949   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:07.949   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:07.984   573  4787 I CTAG    : fp80_readImage: grey=1039576
+01-01 02:47:07.984   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:07.989   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:07.989   573  4787 I CTAG    : detect_param: start. idx=3
+01-01 02:47:07.989   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:07.997   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:08.072   573  4787 I CTAG    : 90 7C 69 5D 55 47 44 43 42 35 34 38 42 32 3C 36 3F 39 32 32 3A 3B 37 39 39 3C 2F 39 35 3B
+01-01 02:47:08.072   573  4787 I CTAG    : 38 3D 3B 38 37 3E 37 3D 38 3C 3E 3F 45 3F 33 3B 34 42 2E 42 3C 3E 40 33 30 37 3F 3C 3D 37
+01-01 02:47:08.072   573  4787 I CTAG    : 42 36 34 3E 2C 2D 2B 2A 34 39 3A 39 33 41 4B 4B 50 63 75 8D 
+01-01 02:47:08.072   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:08.072   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:08.072   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:08.072   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:08.081   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:08.082   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:08.082   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:08.082   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:08.118   573  4787 I CTAG    : fp80_readImage: grey=1039368
+01-01 02:47:08.118   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:08.122   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:08.122   573  4787 I CTAG    : fp80_setWakeUpTH: para_t=0x3c para_c=54 dta=15
+01-01 02:47:08.122   573  4787 I CTAG    : fp80_detectParam: para_t=0x4b para_c=54
+01-01 02:47:08.122   573  4787 I CTAG    : fp80_detectParam: end. ret=0 suc=1
+01-01 02:47:08.122   573  4787 I CTAG    : fp80_detectMode: start. volt=0x42 para_t=0x4b para_c=54
+01-01 02:47:08.131   573  4787 I CTAG    : fp80_detectMode: end.
+01-01 02:47:08.131   573  4787 I MTAG    : wakeup_event: end.
+
+
+01-01 02:47:12.716   573   573 V fingerprintd: stopAuthentication()
+01-01 02:47:12.716   573   573 I MTAG    : ma_cancel: start.
+01-01 02:47:12.732   573   573 I MTAG    : handler: start. swait=1
+01-01 02:47:12.732   573   573 I CTAG    : fp_getWork: ret=2
+01-01 02:47:12.732   573   573 I CTAG    : fp_setWork: start. what=4
+01-01 02:47:12.933   573   573 I CTAG    : fp_setWork: end. ret=0
+01-01 02:47:12.933   573  4787 I CTAG    : fp_getWork: ret=4
+01-01 02:47:12.933   573   573 I MTAG    : handler: end. what=2
+01-01 02:47:12.933   573  4787 I MTAG    : wakeup_event: start. what=4
+01-01 02:47:12.934   573   573 I CTAG    : fp_setWork: start. what=0
+01-01 02:47:12.934   573  4787 I CTAG    : fp_setWork: start. what=2
+01-01 02:47:13.134   573  4787 I CTAG    : fp_setWork: end. ret=0
+01-01 02:47:13.134   573  4787 I MTAG    : wakeup_event: what=4
+01-01 02:47:13.134   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:13.134   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:13.134   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:13.135   573   573 I CTAG    : fp_setWork: end. ret=0
+01-01 02:47:13.135   573   573 I MTAG    : ma_cancel: end. i=0 ret=0
+01-01 02:47:13.148   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:13.148   573   573 V fingerprintd: authenticate(sid=0, gid=0)
+01-01 02:47:13.148   573   573 I MTAG    : ma_verify: start. oper_id=0x0 gid=0
+01-01 02:47:13.149   573   573 I CTAG    : fp_getWork: ret=0
+01-01 02:47:13.149   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:13.149   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:13.149   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:13.185   573  4787 I CTAG    : fp80_readImage: grey=1040921
+01-01 02:47:13.185   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:13.189   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:13.189   573  4787 I CTAG    : fp80_detectParam: start. snum=80 cnum=1
+01-01 02:47:13.190   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:13.190   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:13.190   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:13.199   573   573 I MTAG    : ma_verify: #########===============================================
+01-01 02:47:13.199   573   573 I CTAG    : fp_setWork: start. what=2
+01-01 02:47:13.199   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:13.201   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:13.201   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:13.201   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:13.237   573  4787 I CTAG    : fp80_readImage: grey=1042696
+01-01 02:47:13.237   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:13.243   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:13.243   573  4787 I CTAG    : detect_param: start. idx=0
+01-01 02:47:13.243   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:13.255   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:13.309   573  4787 I CTAG    : 8F 7F 64 5A 55 44 43 3B 3F 35 30 36 3A 2C 37 30 37 33 32 35 37 32 3C 2F 34 34 37 33 32 37
+01-01 02:47:13.309   573  4787 I CTAG    : 2B 3C 31 3E 39 37 3B 3A 33 3B 45 39 38 3B 33 38 38 3C 34 3C 34 3A 3C 36 36 3A 35 38 39 3C
+01-01 02:47:13.309   573  4787 I CTAG    : 37 35 31 39 35 36 2D 30 35 3C 3A 36 38 42 45 4C 58 65 78 92 
+01-01 02:47:13.309   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:13.309   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:13.309   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:13.309   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:13.319   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:13.321   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:13.321   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:13.357   573  4787 I CTAG    : fp80_readImage: grey=1042083
+01-01 02:47:13.357   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:13.361   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:13.361   573  4787 I CTAG    : detect_param: start. idx=1
+01-01 02:47:13.361   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:13.373   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:13.399   573   573 I CTAG    : fp_setWork: end. ret=0
+01-01 02:47:13.400   573   573 I MTAG    : ma_verify: end. i=0 ret=0
+01-01 02:47:13.429   573  4787 I CTAG    : 91 80 66 5D 56 46 45 3E 41 37 32 3A 3B 2F 36 32 39 35 33 37 38 32 3C 33 37 35 38 32 34 3B
+01-01 02:47:13.429   573  4787 I CTAG    : 2E 3F 33 40 3B 3A 3E 3E 32 3C 47 3B 39 3E 33 39 38 3D 35 3D 36 3D 3D 38 36 3B 38 38 3B 3F
+01-01 02:47:13.429   573  4787 I CTAG    : 39 36 34 3A 35 36 30 33 34 3C 3D 38 3A 43 48 4E 5A 67 78 93 
+01-01 02:47:13.429   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:13.429   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:13.429   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:13.429   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:13.438   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:13.439   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:13.440   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:13.440   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:13.476   573  4787 I CTAG    : fp80_readImage: grey=1041995
+01-01 02:47:13.476   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:13.480   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:13.480   573  4787 I CTAG    : detect_param: start. idx=2
+01-01 02:47:13.480   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:13.491   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:13.556   573  4787 I CTAG    : 91 82 6F 56 53 4B 45 46 40 3A 37 3B 3E 36 3B 33 3F 38 2C 35 3B 34 3E 39 36 3A 31 2F 35 37
+01-01 02:47:13.556   573  4787 I CTAG    : 37 3B 3D 41 3A 34 3B 3B 37 3B 48 3D 3D 3D 39 41 40 39 36 37 3D 3C 3A 38 2E 3D 37 42 3C 3B
+01-01 02:47:13.556   573  4787 I CTAG    : 3A 34 36 33 30 35 33 2C 32 3C 2F 31 39 40 46 50 50 62 77 8F 
+01-01 02:47:13.556   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:13.556   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:13.556   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:13.556   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:13.566   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:13.568   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:13.568   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:13.568   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:13.604   573  4787 I CTAG    : fp80_readImage: grey=1040856
+01-01 02:47:13.604   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:13.608   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:13.608   573  4787 I CTAG    : detect_param: start. idx=3
+01-01 02:47:13.608   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:13.617   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:13.692   573  4787 I CTAG    : 91 7C 6A 5C 55 47 44 42 43 35 33 38 42 33 3D 37 3E 3A 32 32 39 3B 37 38 38 3D 31 3A 37 3B
+01-01 02:47:13.692   573  4787 I CTAG    : 39 3E 39 39 36 3D 36 3E 38 3D 3E 3E 44 3E 34 3B 33 41 2D 41 3A 3D 3F 33 30 36 3F 3B 3E 36
+01-01 02:47:13.692   573  4787 I CTAG    : 42 34 32 3F 2C 2D 2A 29 33 38 38 38 33 41 4A 4B 50 63 75 8C 
+01-01 02:47:13.692   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:13.692   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:13.692   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:13.692   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:13.701   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:13.702   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:13.702   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:13.702   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:13.738   573  4787 I CTAG    : fp80_readImage: grey=1041118
+01-01 02:47:13.738   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:13.742   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:13.742   573  4787 I CTAG    : fp80_setWakeUpTH: para_t=0x3d para_c=47 dta=15
+01-01 02:47:13.742   573  4787 I CTAG    : fp80_detectParam: para_t=0x4c para_c=47
+01-01 02:47:13.742   573  4787 I CTAG    : fp80_detectParam: end. ret=0 suc=1
+01-01 02:47:13.742   573  4787 I CTAG    : fp80_detectMode: start. volt=0x42 para_t=0x4c para_c=47
+01-01 02:47:13.751   573  4787 I CTAG    : fp80_detectMode: end.
+01-01 02:47:13.751   573  4787 I MTAG    : wakeup_event: end.
+01-01 02:47:13.751   573  4787 I CTAG    : fp_getWork: ret=2
+01-01 02:47:13.751   573  4787 I MTAG    : wakeup_event: start. what=2
+01-01 02:47:13.752   573  4787 I MTAG    : wakeup_event: what=2
+01-01 02:47:13.752   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:13.752   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:13.752   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:13.760   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:13.762   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:13.762   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:13.762   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:13.798   573  4787 I CTAG    : fp80_readImage: grey=1040399
+01-01 02:47:13.798   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:13.802   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:13.802   573  4787 I CTAG    : fp80_detectParam: start. snum=80 cnum=1
+01-01 02:47:13.802   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:13.802   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:13.802   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:13.811   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:13.812   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:13.812   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:13.812   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:13.848   573  4787 I CTAG    : fp80_readImage: grey=1040485
+01-01 02:47:13.848   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:13.852   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:13.852   573  4787 I CTAG    : detect_param: start. idx=0
+01-01 02:47:13.852   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:13.860   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:13.906   573  4787 I CTAG    : 90 7F 64 5A 55 46 44 3D 41 35 32 38 3A 2C 36 2F 36 33 32 36 36 32 3C 31 34 34 38 31 33 38
+01-01 02:47:13.906   573  4787 I CTAG    : 2C 3D 32 40 39 37 3B 3B 32 3B 46 3A 38 3C 34 39 3A 3C 34 3D 35 3B 3C 37 37 3B 35 38 3A 3C
+01-01 02:47:13.906   573  4787 I CTAG    : 39 35 32 39 34 38 30 31 35 3C 3D 38 38 44 47 4D 58 67 77 93 
+01-01 02:47:13.906   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:13.906   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:13.906   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:13.906   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:13.915   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:13.916   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:13.916   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:13.916   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:13.952   573  4787 I CTAG    : fp80_readImage: grey=1041133
+01-01 02:47:13.952   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:13.956   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:13.956   573  4787 I CTAG    : detect_param: start. idx=1
+01-01 02:47:13.956   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:13.967   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:14.022   573  4787 I CTAG    : 91 7E 66 5B 55 47 45 3D 42 37 30 39 3A 2F 37 31 38 32 33 36 37 32 3C 32 35 35 3A 32 34 38
+01-01 02:47:14.022   573  4787 I CTAG    : 2C 3E 32 3F 3B 38 3D 3D 32 3C 46 3B 38 3D 34 3A 39 3E 34 3D 36 3B 3D 37 36 3B 37 39 39 3E
+01-01 02:47:14.022   573  4787 I CTAG    : 38 35 31 39 32 37 2E 32 35 3B 3D 38 37 43 47 4D 59 67 79 93 
+01-01 02:47:14.022   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:14.022   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:14.022   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:14.022   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:14.031   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:14.032   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:14.032   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:14.032   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:14.067   573  4787 I CTAG    : fp80_readImage: grey=1039703
+01-01 02:47:14.067   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:14.072   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:14.072   573  4787 I CTAG    : detect_param: start. idx=2
+01-01 02:47:14.072   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:14.080   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:14.146   573  4787 I CTAG    : 91 82 6E 58 53 4A 44 46 3E 3A 39 3B 3F 37 3A 34 3F 38 2C 35 3C 32 3F 3A 35 3A 31 30 35 39
+01-01 02:47:14.146   573  4787 I CTAG    : 36 39 3D 42 3A 35 3A 3B 37 3A 48 3E 3E 3F 38 40 3F 38 37 37 3D 3B 39 38 2E 3C 39 42 3B 3C
+01-01 02:47:14.146   573  4787 I CTAG    : 39 34 36 34 30 36 32 2D 32 3E 30 31 3A 40 45 52 50 63 76 90 
+01-01 02:47:14.146   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:14.146   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:14.146   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:14.146   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:14.155   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:14.157   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:14.157   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:14.157   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:14.193   573  4787 I CTAG    : fp80_readImage: grey=1043673
+01-01 02:47:14.193   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:14.198   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:14.198   573  4787 I CTAG    : detect_param: start. idx=3
+01-01 02:47:14.198   573  4787 I CTAG    : fp80_detectModeParam: start. volt=0x42 para_t=0x00 para_c=0
+01-01 02:47:14.207   573  4787 I CTAG    : fp80_detectModeParam: end.
+01-01 02:47:14.282   573  4787 I CTAG    : 91 7B 6C 5E 56 46 45 44 44 35 34 3A 42 34 3C 38 3F 3A 32 34 3A 3D 38 3A 39 3C 33 3A 36 3B
+01-01 02:47:14.282   573  4787 I CTAG    : 3B 3F 3A 38 36 3F 36 3D 38 3A 3E 3D 46 40 35 3C 35 41 2F 41 3D 3D 40 34 30 37 3F 3C 40 36
+01-01 02:47:14.282   573  4787 I CTAG    : 43 35 34 3F 2E 2C 2D 2B 34 39 3C 39 35 41 4C 4C 51 64 75 8D 
+01-01 02:47:14.283   573  4787 I CTAG    : detect_param: end. ret=0
+01-01 02:47:14.283   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42, gconf.manc=0xf0, gconf.capc=0xdd, gconf.grey=0xff
+01-01 02:47:14.283   573  4787 I CTAG    : fp80_imageMode: start. volt=0x42
+01-01 02:47:14.283   573  4787 I CTAG    : fp80_resetMode: start.
+01-01 02:47:14.291   573  4787 I CTAG    : fp80_resetMode: end. i=0 ret=0
+01-01 02:47:14.292   573  4787 I CTAG    : fp80_imageMode: end. ret=0
+01-01 02:47:14.292   573  4787 I CTAG    : fp_pressed: start, press_t=10
+01-01 02:47:14.292   573  4787 I CTAG    : fp80_readImage: start. dlen=15360 rlen=16384
+01-01 02:47:14.328   573  4787 I CTAG    : fp80_readImage: grey=1039545
+01-01 02:47:14.328   573  4787 I CTAG    : fp80_readImage: end. ret=0
+01-01 02:47:14.332   573  4787 I CTAG    : fp_pressed: dtc=0 press_t=10
+01-01 02:47:14.332   573  4787 I CTAG    : fp80_setWakeUpTH: para_t=0x3c para_c=56 dta=15
+01-01 02:47:14.332   573  4787 I CTAG    : fp80_detectParam: para_t=0x4b para_c=56
+01-01 02:47:14.332   573  4787 I CTAG    : fp80_detectParam: end. ret=0 suc=1
+01-01 02:47:14.333   573  4787 I CTAG    : fp80_detectMode: start. volt=0x42 para_t=0x4b para_c=56
+01-01 02:47:14.341   573  4787 I CTAG    : fp80_detectMode: end.
+01-01 02:47:14.341   573  4787 I MTAG    : wakeup_event: end.
+^C
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ vim log7.txt 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ adb logcat | grep "fp_getImage"
+01-01 02:47:01.557   573  4787 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 213.fp_getImage()
+01-01 02:47:03.230   573  4787 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 206.fp_getImage()
+01-01 02:47:05.017   573  4787 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 210.fp_getImage()
+
+
+^C
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ vim log
+log/      log7.txt  
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ vim log7.txt 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ gedit log7.txt 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ vim log7.txt 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ adb logcat | grep "fp_getImage"
+01-01 03:54:56.671   572  4736 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 207.fp_getImage()
+01-01 03:55:01.167   572  4736 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 214.fp_getImage()
+01-01 03:55:02.878   572  4736 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 199.fp_getImage()
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ adb logcat | grep "fp_getImage"
+01-01 04:53:38.533   574  4771 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 203.fp_getImage()
+01-01 04:53:39.975   574  4771 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 203.fp_getImage()
+01-01 04:53:41.371   574  4771 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 205.fp_getImage()
+01-01 04:53:42.947   574  4771 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 201.fp_getImage()
+01-01 04:53:47.250   574  4771 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 201.fp_getImage()
+^[[A^C
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ adb logcat | grep "222222222"
+01-01 04:53:38.533   574  4771 I CTAG    : fp_check 222222222 my_save_bmp_file.
+01-01 04:53:39.975   574  4771 I CTAG    : fp_check 222222222 my_save_bmp_file.
+01-01 04:53:41.371   574  4771 I CTAG    : fp_check 222222222 my_save_bmp_file.
+01-01 04:53:42.947   574  4771 I CTAG    : fp_check 222222222 my_save_bmp_file.
+01-01 04:53:47.250   574  4771 I CTAG    : fp_check 222222222 my_save_bmp_file.
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ adb logcat | grep "fp_getImage"
+01-01 05:07:56.590   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 214.fp_getImage()
+01-01 05:07:57.890   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 224.fp_getImage()
+01-01 05:08:01.017   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 215.fp_getImage()
+01-01 05:08:02.158   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 199.fp_getImage()
+01-01 05:08:03.378   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 211.fp_getImage()
+01-01 05:08:04.600   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 210.fp_getImage()
+01-01 05:08:05.738   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 212.fp_getImage()
+01-01 05:08:07.083   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 216.fp_getImage()
+01-01 05:08:08.295   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 217.fp_getImage()
+01-01 05:08:09.473   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 222.fp_getImage()
+01-01 05:08:10.836   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 206.fp_getImage()
+01-01 05:08:11.971   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 204.fp_getImage()
+01-01 05:08:13.196   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 204.fp_getImage()
+01-01 05:08:14.491   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 207.fp_getImage()
+01-01 05:08:15.721   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 213.fp_getImage()
+01-01 05:08:16.955   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 212.fp_getImage()
+01-01 05:08:25.918   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 205.fp_getImage()
+01-01 05:08:27.184   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 201.fp_getImage()
+01-01 05:08:28.479   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 199.fp_getImage()
+01-01 05:08:29.927   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 212.fp_getImage()
+01-01 05:08:31.319   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 199.fp_getImage()
+01-01 05:08:32.838   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 194.fp_getImage()
+01-01 05:08:34.874   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 209.fp_getImage()
+01-01 05:08:36.535   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 197.fp_getImage()
+01-01 05:08:37.834   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 196.fp_getImage()
+01-01 05:08:39.190   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 191.fp_getImage()
+01-01 05:08:41.301   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 219.fp_getImage()
+01-01 05:08:42.636   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 198.fp_getImage()
+01-01 05:08:44.080   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 216.fp_getImage()
+01-01 05:08:45.360   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 212.fp_getImage()
+01-01 05:08:46.807   572  4786 I CTAG    : fp_check ####### 55555: ret=1 gconf.reg_grey= 203.fp_getImage()
+
+
+
+
+
+^C
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ adb logcat | grep "###### 44444 :" 
+01-01 05:08:41.266   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 219.
+01-01 05:08:42.600   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 198.
+01-01 05:08:44.044   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 216.
+01-01 05:08:45.324   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 212.
+01-01 05:08:46.772   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 203.
+01-01 05:11:12.668   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 218.
+01-01 05:11:14.669   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 212.
+01-01 05:11:16.141   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 205.
+01-01 05:11:21.517   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 255.
+01-01 05:11:22.933   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 204.
+01-01 05:11:25.742   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 208.
+01-01 05:11:27.441   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 223.
+01-01 05:11:29.116   572  4786 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 205.
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ 
+xuzz@xuzz-Latitude-3470:~/workspace/eclipse-ide/eclipse-projects/80T/AFS80T_3.0/fprint_std/fprint_std$ adb logcat | grep "###### 44444 :" 
+
+
+01-01 05:18:57.905   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 192.
+01-01 05:19:42.646   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 184.
+01-01 05:19:43.839   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 192.
+01-01 05:19:45.028   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 187.
+01-01 05:19:46.137   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 183.
+01-01 05:19:47.286   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 183.
+01-01 05:19:48.446   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 183.
+01-01 05:19:49.605   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 185.
+01-01 05:19:50.797   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 185.
+01-01 05:19:52.010   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 184.
+01-01 05:19:53.267   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 184.
+01-01 05:19:54.455   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 185.
+01-01 05:19:56.301   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 183.
+01-01 05:19:57.626   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 185.
+01-01 05:19:58.913   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 184.
+01-01 05:20:00.308   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 188.
+01-01 05:20:01.844   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 186.
+01-01 05:20:03.345   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 186.
+01-01 05:20:05.024   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 185.
+01-01 05:20:06.594   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 185.
+01-01 05:20:08.198   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 182.
+01-01 05:20:09.767   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 186.
+01-01 05:20:15.907   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 184.
+01-01 05:20:17.135   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 183.
+01-01 05:22:41.915   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 181.
+01-01 05:22:45.674   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 188.
+01-01 05:22:49.797   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 188.
+01-01 05:22:51.662   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 201.
+01-01 05:22:53.065   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 183.
+01-01 05:22:54.581   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 184.
+01-01 05:22:56.835   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 183.
+01-01 05:23:12.536   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 194.
+01-01 05:23:13.766   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 189.
+01-01 05:23:15.041   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 187.
+01-01 05:23:16.467   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 193.
+01-01 05:23:18.138   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 197.
+01-01 05:23:19.643   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 186.
+01-01 05:23:21.307   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 200.
+01-01 05:23:22.893   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 194.
+01-01 05:23:24.215   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 194.
+01-01 05:23:25.794   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 184.
+01-01 05:23:27.252   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 197.
+01-01 05:23:28.580   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 198.
+01-01 05:23:29.985   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 199.
+01-01 05:23:31.731   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 208.
+01-01 05:23:33.264   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 200.
+01-01 05:23:34.884   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 184.
+01-01 05:23:42.657   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 193.
+01-01 05:23:44.625   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 184.
+01-01 05:23:46.343   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 188.
+01-01 05:23:48.002   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 196.
+01-01 05:23:49.249   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 199.
+01-01 05:23:52.817   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 190.
+01-01 05:23:54.814   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 213.
+01-01 05:23:59.392   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 192.
+01-01 05:24:01.512   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 193.
+01-01 05:24:02.745   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 239.
+01-01 05:24:05.633   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 194.
+01-01 05:24:07.475   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 190.
+01-01 05:24:08.990   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 202.
+01-01 05:24:10.463   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 197.
+01-01 05:24:15.346   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 203.
+01-01 05:24:16.886   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 189.
+01-01 05:24:18.790   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 192.
+
+
+
+
+
+
+
+
+
+
+
+01-01 05:24:29.308   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 201.
+01-01 05:24:31.261   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 189.
+01-01 05:24:35.461   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 201.
+01-01 05:24:38.675   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 205.
+01-01 05:24:40.248   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 200.
+01-01 05:24:41.538   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 239.
+01-01 05:24:43.346   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 192.
+01-01 05:24:44.553   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 189.
+01-01 05:24:46.660   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 196.
+01-01 05:24:49.707   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 193.
+01-01 05:24:50.868   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 193.
+01-01 05:24:52.927   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 189.
+01-01 05:24:56.592   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 186.
+01-01 05:24:58.542   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 199.
+01-01 05:24:59.963   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 193.
+01-01 05:25:01.189   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 192.
+01-01 05:25:03.017   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 195.
+01-01 05:25:05.674   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 204.
+01-01 05:25:06.860   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 203.
+01-01 05:25:08.769   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 199.
+01-01 05:25:10.362   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 194.
+01-01 05:25:13.316   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 193.
+01-01 05:25:16.381   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 187.
+01-01 05:25:19.488   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 187.
+01-01 05:25:22.426   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 198.
+01-01 05:25:25.604   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 205.
+01-01 05:25:26.748   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 255.
+01-01 05:25:28.403   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 205.
+01-01 05:25:30.045   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 208.
+01-01 05:25:32.801   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 191.
+01-01 05:25:35.882   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 194.
+01-01 05:25:38.133   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 193.
+01-01 05:25:40.545   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 198.
+01-01 05:25:42.445   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 190.
+01-01 05:25:45.488   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 191.
+01-01 05:25:47.648   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 188.
+01-01 05:25:49.978   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 199.
+01-01 05:25:51.958   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 189.
+01-01 05:25:54.748   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 192.
+01-01 05:25:56.021   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 191.
+01-01 05:25:59.644   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 200.
+01-01 05:26:02.658   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 199.
+01-01 05:26:05.283   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 203.
+01-01 05:26:06.579   576  4764 I CTAG    : fp_check ####### 44444 : ret=1 gconf.reg_grey= 239.
+

@@ -1,0 +1,8 @@
+#!/bin/sh
+
+adb root
+adb remount
+#adb push ../../fprint-libs/libfprint-x64.so /system/lib64/
+#adb push ../../fprint-std_libs/fingerprint.default-x64 /system/lib64/hw/fingerprint.default.so
+adb push ../../fprint-libs/libfprint-x64.so /system/lib64/
+adb push ../../fprint-std_libs/fingerprint.default-x64.so /system/lib64/hw/fingerprint.default.so
